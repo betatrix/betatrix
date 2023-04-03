@@ -14,6 +14,6 @@ console.log("Hello World!");
 <br>
 
 <div>
-  <img height="187px" src="https://github-readme-stats.vercel.app/api?username=MMVonnSeek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betatrix&layout=compact&langs_count=7&theme=algolia"/><br>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=MMVonnSeek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betatrix&layout=compact&langs_count=7&theme=algolia"/><br>
 </div>
