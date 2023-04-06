@@ -1,4 +1,4 @@
-## ✨ Welcome, I'm Betatrix :D ✨
+## ✨ Welcome, I'm Beatriz :D ✨
 ```
 console.log("Hello World!");
 ```
