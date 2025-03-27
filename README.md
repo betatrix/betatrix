@@ -23,15 +23,8 @@
 ![MasterHead](https://i0.wp.com/user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ssl=1)
 
 ## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/betatrix">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=betatrix&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betatrix&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
+[![Betatrix's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=betatrix&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betatrix&layout=compact&langs_count=7&theme=radical"/> 
 
 ## Contact me 📫
 <div>
