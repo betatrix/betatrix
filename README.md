@@ -26,6 +26,9 @@
 [![Betatrix's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=betatrix&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betatrix&layout=compact&langs_count=7&theme=radical"/> 
 
+## CodeWars 👩‍💻
+<a href="https://www.codewars.com/users/betatrix" target="_blank"><img height="50em" src="https://www.codewars.com/users/betatrix/badges/large"/></a>
+
 ## Contact me 📫
 <div>
     <a href="https://www.linkedin.com/in/beatrizandradeb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
