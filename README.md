@@ -1,10 +1,11 @@
 
-##  Welcome, I'm Beatriz :)
-- I’m currently learning JavaScript, TypeScript, React and AWS.
-- Degree in System Analysis and Development at IFSP.
+#  Heey welcome, I'm Bea :)
+- I’m currently learning JavaScript, TypeScript and AWS.
+- I have degree in System Analysis and Development at IFSP.
+- 10 months of experience as a dev, and I'm looking for a junior position.
 - Programming, learning and artistic activities are my passions. ❤️
 
-## 💻 Languages e Tools
+## Languages e Tools 💻
 <div style="display: inline">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square" />
@@ -20,14 +21,14 @@
   <img align="center" alt="bruno" src="https://img.shields.io/badge/Bruno-F4AA41?logo=bruno&logoColor=fff&style=flat-square" />
 </div><br/>
 
-## ⚡ GitHub Stats 
+## GitHub Stats ⚡
 [![Betatrix's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=betatrix&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betatrix&layout=compact&langs_count=7&theme=radical"/> 
 
-## 👩‍💻 CodeWars 
-<a href="https://www.codewars.com/users/betatrix" target="_blank"><img height="50em" src="https://www.codewars.com/users/betatrix/badges/large"/></a>
+## CodeWars 👩‍💻 
+<a href="https://www.codewars.com/users/betatrix" target="_blank"><img height="40em" src="https://www.codewars.com/users/betatrix/badges/large"/></a>
 
-## 📫 Contact me 
+## Contact me 📫 
 <div>
     <a href="https://www.linkedin.com/in/beatrizandradeb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:b.dandrade@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
